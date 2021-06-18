@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomasLdev
-- 👀 I’m interested in symfony 5, docker, webpack, bootstrap, sass and vuejs
+- 👀 I’m interested in symfony 5, vuejs, docker and webpack
 - 🌱 I’m currently learning how to make my code great again
 - 💞️ I’m looking to collaborate on everything else than an e-commerce :angry:
 - 📫 How to reach me : contact@thomas-lefebvre.fr
