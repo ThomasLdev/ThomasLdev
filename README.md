@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomasLdev
-- 👀 I’m interested in symfony 4+ and devops processes
+- 👀 I’m interested in the symfony framework and devops processes
 - 🌱 I’m currently learning how to make my code great again
 - 💞️ I’m looking to collaborate on everything else than a CMS :angry:
 - 📫 How to reach me : contact@thomas-lefebvre.fr
