@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ThomasLdev
-- 👀 I’m interested in the symfony framework and devops processes
-- 🌱 I’m currently learning how to make my backend JS great again
-- 💞️ I’m looking to collaborate on every cool PHP stack :happy:
+- 👋 Hi, I’m @b12
+- 👀 I’m interested in the symfony framework and reactjs library
+- 🌱 I’m currently learning how to make my frontend great again
+- 💞️ I’m looking to collaborate on every cool PHP/JS stack :happy:
 - 📫 How to reach me : contact@thomas-lefebvre.fr
 
 <!---
