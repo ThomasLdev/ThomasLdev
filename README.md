@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @b12
+- 👋 Hi, I’m @thomas
 - 👀 I’m interested in the symfony framework and all PHP stacks
 - 🌱 I’m currently learning how to build my own php framework
 - 💞️ I’m looking to collaborate on every cool PHP project :happy:
